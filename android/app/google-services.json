@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "215462626376",
+    "project_id": "techsolvo-react-native",
+    "storage_bucket": "techsolvo-react-native.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215462626376:android:176e287c5678f94789047d",
+        "android_client_info": {
+          "package_name": "com.nativetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215462626376-07qaf12bn32iupeg0vn7s9r3ema97p01.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM5N77l1dohC5DpfXkQ_u5R3k3Ye6X7uI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215462626376-07qaf12bn32iupeg0vn7s9r3ema97p01.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "215462626376-kbth1k9q1gjlmccg9u0kdgkm7fkik0oj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.divebox.divebox"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
